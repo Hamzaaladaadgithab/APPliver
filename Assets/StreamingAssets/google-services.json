@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872877072832",
+    "project_id": "appliverdb",
+    "storage_bucket": "appliverdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872877072832:android:c3c3fbfde8cd85e1682825",
+        "android_client_info": {
+          "package_name": "com.hamza.appliver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0IdGhWp6eaXibUDl8BqH08vR-WLKERA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -105,3 +105,8 @@ InitTestScene*.unity*
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
 Packages/*.tgz
+# Firebase buyuk plugin dosyalari (100MB+ GitHub limitini asiyor)
+/[Aa]ssets/Firebase/Plugins/x86_64/FirebaseCppApp-13_10_0.bundle
+/[Aa]ssets/Firebase/Plugins/x86_64/FirebaseCppApp-13_10_0.so
+/[Aa]ssets/Firebase/Plugins/x86_64/FirebaseCppFirestore.bundle
+/[Aa]ssets/Firebase/Plugins/x86_64/FirebaseCppFirestore.so
